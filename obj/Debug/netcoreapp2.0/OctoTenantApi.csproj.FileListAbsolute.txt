@@ -1,0 +1,10 @@
+/Users/justinbarias/Documents/Git/OctoTenantApi/bin/Debug/netcoreapp2.0/OctoTenantApi.deps.json
+/Users/justinbarias/Documents/Git/OctoTenantApi/bin/Debug/netcoreapp2.0/OctoTenantApi.runtimeconfig.json
+/Users/justinbarias/Documents/Git/OctoTenantApi/bin/Debug/netcoreapp2.0/OctoTenantApi.runtimeconfig.dev.json
+/Users/justinbarias/Documents/Git/OctoTenantApi/bin/Debug/netcoreapp2.0/OctoTenantApi.dll
+/Users/justinbarias/Documents/Git/OctoTenantApi/bin/Debug/netcoreapp2.0/OctoTenantApi.pdb
+/Users/justinbarias/Documents/Git/OctoTenantApi/obj/Debug/netcoreapp2.0/OctoTenantApi.csproj.CoreCompileInputs.cache
+/Users/justinbarias/Documents/Git/OctoTenantApi/obj/Debug/netcoreapp2.0/OctoTenantApi.AssemblyInfoInputs.cache
+/Users/justinbarias/Documents/Git/OctoTenantApi/obj/Debug/netcoreapp2.0/OctoTenantApi.AssemblyInfo.cs
+/Users/justinbarias/Documents/Git/OctoTenantApi/obj/Debug/netcoreapp2.0/OctoTenantApi.dll
+/Users/justinbarias/Documents/Git/OctoTenantApi/obj/Debug/netcoreapp2.0/OctoTenantApi.pdb
